@@ -1,0 +1,6 @@
+
+class usuario {
+    constructor(parameters) {
+        
+    }
+}
